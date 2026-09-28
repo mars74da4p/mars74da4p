@@ -1,18 +1,18 @@
-# 👋 Привет! Рад видеть тебя в моём профиле
+# Hi! Welcome to my profile
 
-Здесь я делюсь своими проектами, экспериментирую с кодом и развиваю свои навыки.
+Here I share my projects, experiment with code, and grow my skills.
 
 ---
 
-### 🛠️ Технологии и инструменты
+### Technologies & Tools
 
-#### Языки программирования & Скрипты
+#### Programming Languages & Scripting
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash/Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-#### Окружение, Сборка & Инструменты
+#### Environment, Build Systems & Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -22,6 +22,6 @@
 
 ---
 
-### 📫 Как со мной связаться
+### Get in touch
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Marselfromuz)
