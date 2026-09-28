@@ -1,41 +1,24 @@
-<p align="center">
-  <img src="https://vercel.app" width="100%" alt="Banner" />
-</p>
+# 👋 Привет! Рад видеть тебя в моём профиле
 
-## 👋 Привет! Рад видеть тебя в моём профиле
-
-Здесь я делюсь своими проектами, экспериментирую с кодом и развиваю свои навыки. 
+Здесь я делюсь своими проектами, экспериментирую с кодом и развиваю свои навыки.
 
 ---
 
 ### 🛠️ Технологии и инструменты
 
-<p align="left">
-  <!-- C++ -->
-  <img src="https://shields.io" alt="C++" />
-  <!-- Python -->
-  <img src="https://shields.io" alt="Python" />
-  <!-- Git -->
-  <img src="https://shields.io" alt="Git" />
-  <!-- Shell / Bash -->
-  <img src="https://shields.io" alt="Shell" />
-</p>
+![C++](https://shields.io) ![Python](https://shields.io) ![Git](https://shields.io) ![Shell](https://shields.io)
 
 ---
 
 ### 📊 Моя статистика GitHub
 
-<p align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
-  <img src="https://vercel.app" alt="Top Langs" width="48%" />
-</p>
+![GitHub Stats](https://vercel.app)
+
+![Top Langs](https://vercel.app)
 
 ---
 
 ### 📫 Как со мной связаться
 
-<p align="left">
-  <a href="https://t.me/Marselfromuz" target="_blank">
-    <img src="https://shields.io" alt="Telegram" />
-  </a>
-</p>
+[![Telegram](https://shields.io)](https://t.me/Marselfromuzb)
+
