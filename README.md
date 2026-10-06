@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:073B4C,50:118AB2,100:06D6A0&height=190&section=header&text=mars74da4p&fontSize=52&fontColor=F8FAFC&fontAlignY=38&desc=C%2FC%2B%2B%20%7C%20Python%20%7C%20Linux&descSize=17&descAlignY=60" width="100%" alt="mars74da4p profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:073B4C,50:118AB2,100:06D6A0&height=190&section=header&text=mars74da4p&fontSize=52&fontColor=F8FAFC&fontAlignY=38&desc=C%2FC%2B%2B%20%7C%20Linux%20%7C%20Open%20Source&fontSizeDesc=18&fontColorDesc=E2E8F0&descAlignY=64" alt="mars74da4p banner" />
 
 <a href="https://github.com/mars74da4p"><img src="https://img.shields.io/badge/GitHub-mars74da4p-073B4C?style=flat-square&logo=github&logoColor=white" alt="GitHub: mars74da4p" /></a>
 <a href="https://t.me/Marselfromuz"><img src="https://img.shields.io/badge/Telegram-Get%20in%20touch-118AB2?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
@@ -23,7 +23,8 @@ I share projects, experiment with code, and keep learning. My toolkit spans syst
 **Environment & tools**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat-square&logo=linux&logoColor=white)
+![XFCE](https://img.shields.io/badge/XFCE-3D9BDB?style=flat-square&logo=xfce&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
@@ -39,7 +40,7 @@ I share projects, experiment with code, and keep learning. My toolkit spans syst
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mars74da4p&hide_border=true&background=0D1821&ring=06D6A0&fire=EF476F&currStreakLabel=06D6A0&sideLabels=E6EDF3&dates=93A4B4" alt="GitHub contribution streak for mars74da4p" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mars74da4p&hide_border=true&background=0D1821&ring=06D6A0&fire=EF476F&currStreakLabel=06D6A0&sideLabels=E6EDF3&dates=93A4B4" alt="GitHub streak stats for mars74da4p" />
 
 </div>
 
